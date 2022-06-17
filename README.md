@@ -18,8 +18,9 @@ Comparisons of the main functions (with their simplified signatures) used in the
 
 Note 1: the .csv files are using the TAB (\t) field separator.
 
-Note 2 : ALLs.csv - the original file with Stdlib-Containers-Batteries-Base & F# functions
-         ALL.csv  - the original file with Stdlib-Containers-Batteries-Base functions
+Note 2 : 
+- ALLs.csv - the original file with Stdlib-Containers-Batteries-Base & F# functions
+- ALL.csv  - the original file with Stdlib-Containers-Batteries-Base functions
          
 Note 3 : Stdlib vs Containers/Batteries/Base/F#:
 - Stdlib_diffs_CC   : In Containers, not in Stdlib 
